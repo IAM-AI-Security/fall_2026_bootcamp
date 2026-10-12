@@ -1,0 +1,9 @@
+SYSTEM INFO
+===========
+Timestamp: 2026-10-12 18:55:05.044001
+Hostname: Dbreed
+Operating system: Windows
+OS version: 10.0.26200
+Machine type: AMD64
+Current user ID: not available
+Current working directory: C:\Users\chris\Documents\TheoWAF\class8\SEIR_Foundations\AWS\Classes\fall_2026_bootcamp\live-server-diagnostics
